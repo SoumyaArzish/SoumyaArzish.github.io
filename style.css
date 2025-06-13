@@ -80,13 +80,14 @@ button {
 }
 
 button:hover {
-  background-color: #CA430D;
+  background: linear-gradient(to right, #CA430D, #d99725);
   border: 1px solid white;
   transform: scale(1.1);
   box-shadow: 0 5px 15x rgba(0,0,0,0.3);
 
 canvas {
   margin: 10px 0;
+  margin-top: 15px;
   border: 1px solid #ccc;
   width: 600px;
   height: 600px;
