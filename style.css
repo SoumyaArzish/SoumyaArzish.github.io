@@ -71,7 +71,7 @@ button {
   font-size: 16px;
   margin: 10px 0;
   cursor: pointer;
-  background: #4CAF50;
+  background: #F1F107;
   color: white;
   border: none;
   border-radius: 10px;
@@ -80,7 +80,7 @@ button {
 }
 
 button:hover {
-  background: #CA430D;
+  background: #F1F107;
   border: 1px solid white;
   transform: scale(1.1);
   box-shadow: 0 5px 15x rgba(0,0,0,0.3);
