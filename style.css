@@ -5,14 +5,14 @@ html, body {
   margin: 0;
   padding: 20;
   font-family: Arial, sans-serif;
-  background-color: #CA430D;
+  background: linear-gradient(to right, #CA430D, #d99725);
 }
 
 .container {
   max-width: 1200px;
-  margin: 5px;
-  text-align: left;
-  background: linear-gradient(to right, #CA430D, #d99725);
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
 }
 
 .video-container {
@@ -81,9 +81,9 @@ button {
 
 button:hover {
   background-color: #CA430D;
-  border: 2px solid white;
+  border: 1px solid white;
   transform: scale(1.1);
-  box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+  box-shadow: 0 5px 15x rgba(0,0,0,0.3);
 
 canvas {
   margin: 10px 0;
