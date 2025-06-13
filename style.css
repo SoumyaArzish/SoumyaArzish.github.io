@@ -5,12 +5,14 @@ html, body {
   margin: 0;
   padding: 20;
   font-family: Arial, sans-serif;
+  background-color: #CA430D;
 }
 
 .container {
   max-width: 1200px;
   margin: 5px;
   text-align: left;
+  background: linear-gradient(to right, #CA430D, #d99725);
 }
 
 .video-container {
